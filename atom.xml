@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Haben Chan</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://habenchan.github.io/"/>
+  <updated>2017-10-31T07:07:04.115Z</updated>
+  <id>https://habenchan.github.io/</id>
+  
+  <author>
+    <name>Haben Chan</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MyBatis Spring Adapter</title>
+    <link href="https://habenchan.github.io/2017/10/31/hello-CN/"/>
+    <id>https://habenchan.github.io/2017/10/31/hello-CN/</id>
+    <published>2017-10-31T06:58:42.998Z</published>
+    <updated>2017-10-31T07:07:04.115Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="MyBatis-Spring-Adapter"><a href="#MyBatis-Spring-Adapter" class="headerlink" title="MyBatis Spring Adapter"></a>MyBatis Spring Adapter</h1><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="http://mybatis.github.io/images/mybatis-logo.png" alt="mybatis-spring" title="">                </div>                <div class="image-caption">mybatis-spring</div>            </figure><p>MyBatis-Spring adapter is an easy-to-use Spring3 bridge for MyBatis sql mapping framework.</p><h2 id="Supported-Versions"><a href="#Supported-Versions" class="headerlink" title="Supported Versions"></a>Supported Versions</h2><ul><li>1.3.x - Continued support for Java 6</li><li>master (2.0.x) - Support for Java 8, Spring 5, and Junit 5 plus other java 8 requirements</li></ul><h2 id="Essentials"><a href="#Essentials" class="headerlink" title="Essentials"></a>Essentials</h2><ul><li><a href="http://mybatis.github.io/spring/" target="_blank" rel="external">See the docs</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;MyBatis-Spring-Adapter&quot;&gt;&lt;a href=&quot;#MyBatis-Spring-Adapter&quot; class=&quot;headerlink&quot; title=&quot;MyBatis Spring Adapter&quot;&gt;&lt;/a&gt;MyBatis Spring Adapt
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://habenchan.github.io/2017/10/31/hello-world/"/>
+    <id>https://habenchan.github.io/2017/10/31/hello-world/</id>
+    <published>2017-10-31T03:30:34.079Z</published>
+    <updated>2017-10-31T07:34:44.067Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="https://habenchan.github.io/tags/Java/"/>
+    
+  </entry>
+  
+</feed>
